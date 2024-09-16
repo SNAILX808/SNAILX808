@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [Your Name]
+# 👋 Hello! I'm SNAILX
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in [web development, game development, data science]. I enjoy working on exciting projects, learning new technologies, and contributing to the open-source community.
 
