@@ -18,8 +18,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🔭 Current Projects
 
-- [HOPELESS ROLEPLAY](https://discord.gg/hpl)
-- [CATENA ROLEPLAY](https://discord.gg/catena)
+- [SANBA FIVEM SCRIPTS](https://discord.gg/XBQUkPB4u8)
+
 
 ## 🛠️ What I'm Working On
 
